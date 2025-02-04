@@ -103,8 +103,8 @@ systemctl start httpd
 
 ## GitHub Repository
 
-- **Repository URL**:
-
+- **Repository URL**: [deploy-a-static-website-on-aws](https://github.com/Shilyjunior/deploy-a-static-website-on-aws)
+  
 ## Conclusion
 
 This project showcases a comprehensive solution for hosting a static website on AWS, utilizing a variety of AWS services to deliver high availability, scalability, and robust security. For step-by-step guidance, configuration details, and visual representations, please explore the files and diagrams available in the GitHub repository.
